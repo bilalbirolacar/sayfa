@@ -1,0 +1,14 @@
+Php ve MySQL Tabanlý Üyelik Sistemi
+
+PhpMyAdmin veya veritabanýna eriþmek için kullandýðýnýz program ile uye isminde yeni bir veritabaný oluþturun.
+Daha sonra uyeler.sql dosyasýný içe aktar yöntemi ile oluþturduðunuz veritabanýna dahil edin. 
+
+uye klasöründeki baglanti.php dosyasýnda tanýmlý olan veritabaný bilgilerini girmeyi unutmayýn.
+
+Yetkili giriþ için kullanýcý adý ve þifre admin.
+
+Uygulama ile ilgili herhangi bir sorun ile karþýlaþýrsanýz www.celalyurtcu.com adresinden, Php Dersleri bölümündeki "Php ve MySQL Tabanlý Üyelik Sistemi" konu baþlýðýndan sorunlarýnýzý iletebilirsiniz.
+
+-----------------------------------
+
+Son Güncelleme: 14.10.2012
