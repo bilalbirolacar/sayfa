@@ -44,7 +44,7 @@
 
 		   	<nav id="main-nav-wrap">
 					<ul class="main-navigation">
-						<li class="current"><a class="smoothscroll"  href="#index.php" title="">Anasayfa</a></li>
+						<li class="current"><a class="smoothscroll"  href="index.php" title="">Anasayfa</a></li>
 						<li><a class="smoothscroll"  href="#Hakkinda" title="">Hakkında</a></li>
 						<li><a class="smoothscroll"  href="#Egitim" title="">Eğitim</a></li>
 						<li><a class="smoothscroll"  href="#Sehir" title="">Şehir</a></li>
