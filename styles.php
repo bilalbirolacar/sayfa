@@ -64,13 +64,13 @@
 
 			<nav id="main-nav-wrap">
 				 <ul class="main-navigation">
-					 <li class="current"><a class="smoothscroll"  href="#Anasayfa" title="">Anasayfa</a></li>
+					 <li class="current"><a class="smoothscroll"  href="index.php" title="">Anasayfa</a></li>
 					 <li><a class="smoothscroll"  href="#Hakkinda" title="">Hakkında</a></li>
 					 <li><a class="smoothscroll"  href="#Egitim" title="">Eğitim</a></li>
 					 <li><a class="smoothscroll"  href="#Sehir" title="">Şehir</a></li>
 					 <li><a class="smoothscroll"  href="#Hizmetler" title="">Hizmetler</a></li>					
 					 <li><a class="smoothscroll"  href="#contact" title="">İletişim</a></li>	
-					 <li><a href="styles.html" title="">Çalışma Alanı</a></li>				
+					 <li><a href="styles.php" title="">Çalışma Alanı</a></li>				
 				 </ul>
 			 </nav>    		
 		</div> <!-- /top-bar --> 
